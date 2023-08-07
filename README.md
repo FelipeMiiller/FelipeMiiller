@@ -17,7 +17,7 @@ Talk to me about
 - Relational databases using **PostgresSQL, MySQL and SQL Server**
 - Non-relational using like **MongoDB**
 - Virtualization with **Docker**
-- Source Control using **GIT and TFS**
+- Source Control using **GIT**
 
 
 ## 📫 Contact Me
