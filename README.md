@@ -12,7 +12,7 @@ Back-End Developer, who likes to code and coffee. I'm always learning new things
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **ReactJS, Nextjs, HTML, CSS, Javascript and Typescript**
+- Front-end development using **ReactJS, Nextjs, HTML, CSS, TailwindCSS, Javascript and Typescript**
 - Backend development using **Node.js, NestJs, Dotnet**
 - Relational databases using **PostgresSQL, MySQL and SQL Server**
 - Non-relational using like **MongoDB**
