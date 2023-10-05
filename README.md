@@ -3,12 +3,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-felipemiillerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemiillerr@gmail.com)](mailto:felipemiillerr@gmail.com)
 
 # Felipe Miiller 😃
-Back-End Developer
+
 
 [![FelipeMiiller github stats](https://github-readme-stats.vercel.app/api?username=FelipeMiiller&show_icons=true&theme=radical)](https://github.com/FelipeMiiller)
 
 ## 🧐 About
-Back-End Developer, who likes to code and coffee. I'm always learning new things to help others achieve great things with technology.
+ Developer, who likes to code and coffee. I'm always learning new things to help others achieve great things with technology.
 
 ## ⚡ Technologies
 Talk to me about
