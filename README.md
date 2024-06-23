@@ -12,9 +12,9 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Backend development using **Node.js, NestJs, Dotnet**
+- Backend development using **Node.js, NestJs, Python**
 - Front-end development using **ReactJS, Nextjs, TailwindCSS,Typescript**
-- Relational databases using **PostgresSQL, MySQL and SQL Server**
+- Relational databases using **PostgresSQL and MySQL **
 - Non-relational using like **MongoDB**
 - Virtualization with **Docker**
 - Source Control using **GIT**
