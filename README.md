@@ -1,5 +1,4 @@
 # Hello, my name is  Felipe Miiller.
-
 [![Linkedin Badge](https://img.shields.io/badge/-FelipeMiiller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-miiller-45b1a891/)](https://www.linkedin.com/in/felipe-miiller-45b1a891/)
 [![Gmail Badge](https://img.shields.io/badge/-felipemiillerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemiillerr@gmail.com)](mailto:felipemiillerr@gmail.com)
 
@@ -19,7 +18,6 @@ Talk to me about
 
 ## Personal stats:
  A Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
-
 
 ## 🥇 Primary technology stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,7 +57,6 @@ Talk to me about
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ## 🥈 Secondary technology stack
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
@@ -70,8 +67,9 @@ Talk to me about
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 ## 🔖 Featured repositories:
-
 [![Blog ](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMiiller&repo=Blog)](https://github.com/FelipeMiiller/Blog)
+[![Nestjs Template](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMiiller&repo=nestjs-template)](https://github.com/FelipeMiiller/nestjs-template)
+[![Nextjs Template ](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMiiller&repo=nextjs-template)](https://github.com/FelipeMiiller/nextjs-template)
 
 ## 📫 Contact Me
 - LinkedIn - [Here](https://www.linkedin.com/in/felipe-miiller-45b1a891/)
