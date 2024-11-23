@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is  Felipe Miiller.
+# Hello, my name is  Felipe Miiller.
 
 [![Linkedin Badge](https://img.shields.io/badge/-FelipeMiiller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-miiller-45b1a891/)](https://www.linkedin.com/in/felipe-miiller-45b1a891/)
 [![Gmail Badge](https://img.shields.io/badge/-felipemiillerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemiillerr@gmail.com)](mailto:felipemiillerr@gmail.com)
