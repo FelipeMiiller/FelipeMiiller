@@ -9,7 +9,7 @@
 Talk to me about
 - Backend development using **Node.js, NestJs, Python**
 - Front-end development using **ReactJS, Nextjs, TailwindCSS,Typescript**
-- Relational databases using **PostgresSQL, SQLSERVER and MySQL **
+- Relational databases using **PostgresSQL, SQLSERVER and MySQL**
 - Non-relational using like **MongoDB**
 - Virtualization with **Docker**
 - Source Control using **GIT**
