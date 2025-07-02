@@ -2,8 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-FelipeMiiller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-miiller-45b1a891/)](https://www.linkedin.com/in/felipe-miiller-45b1a891/)
 [![Gmail Badge](https://img.shields.io/badge/-felipemiillerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemiillerr@gmail.com)](mailto:felipemiillerr@gmail.com)
 
-[![FelipeMiiller github stats](https://github-readme-stats.vercel.app/api?username=FelipeMiiller&show_icons=true&theme=radical)](https://github.com/FelipeMiiller)
-
 ## 🧐 About
  Developer, who likes to code and coffee. I'm always learning new things to help others achieve great things with technology.
 
@@ -11,7 +9,7 @@
 Talk to me about
 - Backend development using **Node.js, NestJs, Python**
 - Front-end development using **ReactJS, Nextjs, TailwindCSS,Typescript**
-- Relational databases using **PostgresSQL and MySQL **
+- Relational databases using **PostgresSQL, SQLSERVER and MySQL **
 - Non-relational using like **MongoDB**
 - Virtualization with **Docker**
 - Source Control using **GIT**
@@ -66,10 +64,6 @@ Talk to me about
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
-## 🔖 Featured repositories:
-[![Blog ](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMiiller&repo=Blog)](https://github.com/FelipeMiiller/Blog)
-[![Nestjs Template](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMiiller&repo=nestjs-template)](https://github.com/FelipeMiiller/nestjs-template)
-[![Nextjs Template ](https://github-readme-stats.vercel.app/api/pin/?username=FelipeMiiller&repo=nextjs-template)](https://github.com/FelipeMiiller/nextjs-template)
 
 ## 📫 Contact Me
 - LinkedIn - [Here](https://www.linkedin.com/in/felipe-miiller-45b1a891/)
